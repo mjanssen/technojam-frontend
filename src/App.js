@@ -5,7 +5,7 @@ import Maincontent from './Components/Maincontent';
 
 function App() {
   return (
-    <div className="App sectionStyle">
+    <div className="App section-style">
       <Fragment>
         <TopMenu />
         <Maincontent />
