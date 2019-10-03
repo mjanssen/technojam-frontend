@@ -20,3 +20,7 @@ code {
 .card--shadow {
   box-shadow: 0px 4px 8px rgba(0,0,0,0.25) !important;
 }
+
+.main-content {
+  padding-bottom: 50px;
+}
