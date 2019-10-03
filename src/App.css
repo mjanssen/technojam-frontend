@@ -1,0 +1,8 @@
+.sectionStyle {
+  background-image: url('https://tj-static.s3.ap-south-1.amazonaws.com/etc/Capture.png');
+  background-repeat: repeat;
+  background-position-x: center;
+  position: absolute;
+  width: 100%;
+  top: 0;
+}
