@@ -17,7 +17,6 @@ function App() {
     <div className="App" style={sectionStyle}>
       <Fragment>
         <TopMenu />
-
         <Maincontent />
         <Footer />
       </Fragment>
